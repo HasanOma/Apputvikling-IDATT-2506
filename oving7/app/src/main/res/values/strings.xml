@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">oving7</string>
+    <string name="info">Movie Database</string>
+    <string name="settings">Settings</string>
+    <string name="confirm">Confirm</string>
+    <string name="colors_default_value">#FFFFFF</string>
+    <string name="colors">colors</string>
+    <string name="colors_title">Select Background Color</string>
+</resources>

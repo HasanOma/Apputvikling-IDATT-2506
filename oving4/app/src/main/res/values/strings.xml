@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">oving4</string>
+    <string name="Movie1t">The Lighthouse</string>
+    <string name="Movie2t">Shrek</string>
+    <string name="Movie3t">Minions</string>
+    <string name="Movie1d">A long review of The Lighthouse</string>
+    <string name="Movie2d">A long review of a Shrek</string>
+    <string name="Movie3d">A long review of Minions: The Reise Of Gru</string>
+
+    <array name="pictures">
+        <item>@drawable/movie1</item>
+        <item>@drawable/movie2</item>
+        <item>@drawable/movie3</item>
+    </array>
+
+    <string-array name="movietitles">
+        <item>@string/Movie1t</item>
+        <item>@string/Movie2t</item>
+        <item>@string/Movie3t</item>
+    </string-array>
+    <string-array name="moviedescriptions">
+        <item>@string/Movie1d</item>
+        <item>@string/Movie2d</item>
+        <item>@string/Movie3d</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "actor": "Leonardo DiCaprio, Joseph Gordon Levitt"
+    },
+    {
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "actor": "John Travolta, Samuel L. Jackson"
+    },
+    {
+      "title": "Get Out",
+      "director": "Jordan Peele",
+      "actor": "Daniel Kaluuya, LaKeith Lee Stanfield"
+    },
+    {
+      "title": "Goodfellas",
+      "director": "Martin Scorsese",
+      "actor": "Ray Liotta, Robert De Niro"
+    },
+    {
+      "title": "Drive",
+      "director": " Nicolas Winding Refn",
+      "actor": "Ryan Gosling, Carey Mulligan"
+    }
+  ]
+}

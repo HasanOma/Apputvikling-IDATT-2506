@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_entries">
+        <item>White</item>
+        <item>Green</item>
+        <item>Turkuis</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="color_values">
+        <item>#FFFFFF</item>
+        <item>#00FF00</item>
+        <item>#FF03DAC5</item>
+        <item>#FFFF00</item>
+    </string-array>
+
+    <array name="color_values_not_string">
+        <item>#FFFFFF</item>
+        <item>#00FF00</item>
+        <item>#FF03DAC5</item>
+        <item>#FFFF00</item>
+    </array>
+</resources>

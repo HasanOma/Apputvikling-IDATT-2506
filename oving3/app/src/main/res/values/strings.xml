@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">oving3</string>
+
+    <string name="option0">Menu</string>
+    <string name="option1">Add Friend</string>
+    <string name="option2">Close</string>
+
+    <string-array name="spinnerOptions">
+        <item>@string/option0</item>
+        <item>@string/option1</item>
+        <item>@string/option2</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_exit"
+        android:title="Close App" />
+    <item
+        android:id="@+id/menu_back"
+        android:title="Prev"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_next"
+        android:title="Next"
+        app:showAsAction="ifRoom" />
+</menu>

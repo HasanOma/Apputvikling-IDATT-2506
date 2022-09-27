@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">oving2</string>
+    <string name="generate_random_number">Generate a number</string>
+    <string name="generer_number">Generate a random number</string>
+    <string name="attempt">Sum / Multiplication</string>
+    <string name="add">Addition</string>
+    <string name="multiply">Multiplication</string>
+    <string name="answer">Answer:</string>
+    <string name="upperLimit">Upper limit of new numbers:</string>
+    <string name="correct">Correct!</string>
+    <string name="number">First random number</string>
+    <string name="number2">Second random number</string>
+    <string name="try_again">Retry</string>
+    <string name="wrong_the_correct_answer_is">Wrong... The Correct answer is</string>
+</resources>
